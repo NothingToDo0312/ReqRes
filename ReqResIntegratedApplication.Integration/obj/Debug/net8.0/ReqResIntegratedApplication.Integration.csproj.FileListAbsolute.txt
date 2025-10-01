@@ -1,0 +1,11 @@
+C:\Users\Windows 10\source\repos\ReqresIntegratedApplication.Integration\bin\Debug\net8.0\ReqResIntegratedApplication.Integration.deps.json
+C:\Users\Windows 10\source\repos\ReqResIntegratedApplication.Integration\bin\Debug\net8.0\ReqResIntegratedApplication.Integration.dll
+C:\Users\Windows 10\source\repos\ReqResIntegratedApplication.Integration\bin\Debug\net8.0\ReqResIntegratedApplication.Integration.pdb
+C:\Users\Windows 10\source\repos\ReqResIntegratedApplication.Integration\obj\Debug\net8.0\ReqResIntegratedApplication.Integration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\source\repos\ReqResIntegratedApplication.Integration\obj\Debug\net8.0\ReqResIntegratedApplication.Integration.AssemblyInfoInputs.cache
+C:\Users\Windows 10\source\repos\ReqResIntegratedApplication.Integration\obj\Debug\net8.0\ReqResIntegratedApplication.Integration.AssemblyInfo.cs
+C:\Users\Windows 10\source\repos\ReqResIntegratedApplication.Integration\obj\Debug\net8.0\ReqResIntegratedApplication.Integration.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\ReqResIntegratedApplication.Integration\obj\Debug\net8.0\ReqResIntegratedApplication.Integration.dll
+C:\Users\Windows 10\source\repos\ReqResIntegratedApplication.Integration\obj\Debug\net8.0\refint\ReqResIntegratedApplication.Integration.dll
+C:\Users\Windows 10\source\repos\ReqResIntegratedApplication.Integration\obj\Debug\net8.0\ReqResIntegratedApplication.Integration.pdb
+C:\Users\Windows 10\source\repos\ReqresIntegratedApplication.Integration\obj\Debug\net8.0\ref\ReqResIntegratedApplication.Integration.dll
