@@ -19,7 +19,7 @@ namespace ReqResIntegratedApplication.WebApi.Controllers
 
         public async Task<IActionResult> PostResource()
         {
-            string baseUrl = "https://reqres.in/api/users";
+            string baseUrl = "https://reqres.in/api/resources";
             ResourceService resourceServices = new ResourceService(_httpClient, baseUrl);
 
             return Ok(resourceServices);
