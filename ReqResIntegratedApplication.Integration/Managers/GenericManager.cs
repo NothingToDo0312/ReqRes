@@ -23,7 +23,7 @@ namespace ReqresIntegratedApplication.Integration.Managers
         {
             var json = JsonSerializer.Serialize(_requestBody);
             var content = new StringContent(json, Encoding.UTF8, "application/json");
-            var response = await _httpClient.PutAsync(_baseUrl, content);
+            var response = await _httpClient.PostAsync(_baseUrl, content);
             var responseString = await response.Content.ReadAsStringAsync();
             var responseJson = JsonSerializer.Deserialize<T>(responseString);
 
