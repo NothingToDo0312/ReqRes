@@ -17,7 +17,7 @@ namespace ReqResIntegratedApplication.WebApi.Controllers
         // POST api/<UserController>
         [HttpPost("AddResource")]
 
-        public async Task<IActionResult> PostResource()
+        public async Task<IActionResult> PostResource(Resource resource)
         {
             string baseUrl = "https://reqres.in/api/resources";
             ResourceService resourceServices = new ResourceService(_httpClient, baseUrl);
